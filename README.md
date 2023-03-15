@@ -33,7 +33,7 @@ Initially we can see that there are no errors and so no errors are shown in the 
 
 ![image](https://user-images.githubusercontent.com/77314766/225272123-0290f2b9-3a26-47f3-b668-2bf5fbae35aa.png)
 
-We can also analyse the warnings and convention here.
+We can also analyse the warnings and convention here.<br />
 2) Now we change the code so that there is an error in line 18.
 ![image](https://user-images.githubusercontent.com/77314766/225273499-f6e877b7-5542-4c1b-b4ee-f0430313f4d4.png)
 
