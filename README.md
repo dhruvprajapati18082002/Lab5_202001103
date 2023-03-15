@@ -36,6 +36,12 @@ Initially we can see that there are no errors and so no errors are shown in the 
 We can also analyse the warnings and convention here.<br />
 2) Now we change the code so that there is an error in line 18.
 ![image](https://user-images.githubusercontent.com/77314766/225273499-f6e877b7-5542-4c1b-b4ee-f0430313f4d4.png)
+![image](https://user-images.githubusercontent.com/77314766/225274474-8d95b014-a393-47de-a202-3e1e0ef0e48f.png)
 
-
+<br/>
+ The error is also indicated in Spyder.
+ <br/>
+ 
+ Now we check the file check_colors from Colors folder.
+![image](https://user-images.githubusercontent.com/77314766/225277696-6d6953d2-1e5f-4b43-94f3-646066de91d0.png)
 
