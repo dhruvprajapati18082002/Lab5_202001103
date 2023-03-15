@@ -10,14 +10,6 @@ IT-314
 By DHRUV PRAJAPATI
 ID: 202001103
 
-
-
-
-
-
-
-
-	
 STATIC CODE ANALYSIS
 Static code analysis is a method of computer program debugging that is done by examining the code without executing the program. The process provides an understanding of the code structure and can help ensure that the code adheres to industry standards.
 PYLINT
@@ -44,4 +36,12 @@ We can also analyse the warnings and convention here.<br />
  
  Now we check the file check_colors from Colors folder.
 ![image](https://user-images.githubusercontent.com/77314766/225277696-6d6953d2-1e5f-4b43-94f3-646066de91d0.png)
+Since there are no erros, it also shows no errros and 0 warnings.
+<br/> 
+It show correctly the error
 
+![image](https://user-images.githubusercontent.com/77314766/225278799-51bcb6af-633d-44c1-8ea9-061d9d0d5686.png)
+
+So we can see that Spyder correctly show the errors, warnings and even convention which is reaLLY helpful while debugging.
+
+THANK YOU.
